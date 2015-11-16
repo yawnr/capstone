@@ -1,4 +1,4 @@
-# Phase 4: Allow Complex Styling in Notes (1 day)
+### Phase 4: Homepage Gallery (1 day)
 
 ## Rails
 ### Models
@@ -9,10 +9,10 @@
 
 ## Flux
 ### Views (React Components)
+HomeGallery
 
 ### Stores
 
 ### Actions
 
 ## Gems/Libraries
-* Quill.js
