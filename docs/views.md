@@ -3,24 +3,24 @@
 ## New User
 ![new-user]
 
-## New Session
-![new-session]
+## Album Index
+![albums]
 
-## NotesIndex / NoteIndexItem / NoteForm
-![notes]
+## Album Show
+![album]
 
-## NotebooksIndex / NotebookIndexItem
-![notebooks]
+## Photo Show
+![photo]
 
-## NoteBookForm
-![notebook-form]
+## Gallery
+![gallery]
 
-## Component Heirarchy
-![component-heirarchy]
+## Uploader
+![uploader]
 
-[new-user]: ./wireframes/new_user.png
-[new-session]: ./wireframes/new_session.png
-[notes]: ./wireframes/root_notes.png
-[notebooks]: ./wireframes/root_notebooks.png
-[notebook-form]: ./wireframes/notebook_form.png
-[component-heirarchy]: ./wireframes/component_heirarchy.png
+[new-user]: ./wireframes/1_new_user.png
+[albums]: ./wireframes/2_album_index.png
+[album]: ./wireframes/3_album_show.png
+[photo]: ./wireframes/4_photo_show.png
+[gallery]: ./wireframes/5_gallery.png
+[uploader]: ./wireframes/6/uploader.png
