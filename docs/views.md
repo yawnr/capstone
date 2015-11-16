@@ -23,4 +23,4 @@
 [album]: ./wireframes/3_album_show.png
 [photo]: ./wireframes/4_photo_show.png
 [gallery]: ./wireframes/5_gallery.png
-[uploader]: ./wireframes/6/uploader.png
+[uploader]: ./wireframes/6_uploader.png
